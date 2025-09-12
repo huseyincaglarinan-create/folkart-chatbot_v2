@@ -10,3 +10,4 @@ requests
 tqdm
 langchain-pinecone
 langchain-community
+unstructured
