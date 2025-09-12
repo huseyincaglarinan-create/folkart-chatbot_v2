@@ -1,0 +1,12 @@
+flask
+openai
+langchain
+python-dotenv
+pinecone-client
+pinecone-text
+twilio
+langchain-openai
+requests
+tqdm
+langchain-pinecone
+langchain-community
